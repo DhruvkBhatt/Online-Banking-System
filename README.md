@@ -1,2 +1,2 @@
 # Online-Banking-System
-It's a softwate.
+It's a software.
